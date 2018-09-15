@@ -1,0 +1,134 @@
+                  Search or jump to... Pull requests Issues Marketplace Explore
+         gao0122 / ARKit-Example-by-Apple
+Issues 10     Pullrequests 1     Projects 0     Wiki Insights
+Watch 12 Star 252 Fork 72
+     Code
+         Branch: master
+ARKit-Example-by-Apple / ARKitExample / Assets.xcassets / AppIcon.appiconset / Contents.json
+gao0122 ARKit Example provided by Apple 1 contributor
+Find file Copy path
+ffcbab7 on Jun 6, 2017
+            112 lines (112 sloc)
+1{
+2 "images" : 3{
+4 "size"
+5 "idiom" : "iphone",
+6 "filename" : "ARKit-40.png",
+7 "scale" : "2x"
+8 },
+9{
+10 "size" : "20x20",
+11 "idiom" : "iphone",
+12 "filename" : "ARKit-60.png",
+13 "scale" : "3x"
+14 },
+15 {
+16 "size" : "29x29",
+17 "idiom" : "iphone",
+18 "filename" : "ARKit-59.png",
+19 "scale" : "2x"
+20 },
+21 {
+22 "size" : "29x29",
+23 "idiom" : "iphone",
+24 "filename" : "ARKit-87.png",
+25 "scale" : "3x"
+26 },
+27 {
+28 "size" : "40x40",
+29 "idiom" : "iphone",
+30 "filename" : "ARKit-81.png",
+31 "scale" : "2x"
+32 },
+33 {
+34 "size" : "40x40",
+35 "idiom" : "iphone",
+36 "filename" : "ARKit-121.png",
+37 "scale" : "3x"
+38 },
+39 {
+40 "size" : "60x60",
+41 "idiom" : "iphone",
+42 "filename" : "ARKit-120.png",
+43 "scale" : "2x"
+44 },
+45 {
+46 "size" : "60x60",
+47 "idiom" : "iphone",
+48 "filename" : "ARKit-180.png",
+49 "scale" : "3x"
+50 },
+51 {
+52 "idiom" : "ipad",
+53 "size" : "20x20",
+54 "scale" : "1x"
+55 },
+56 {
+57 "size" : "20x20",
+58 "idiom" : "ipad",
+59 "filename" : "ARKit-41.png",
+60 "scale" : "2x"
+61 },
+62 {
+63 "idiom" : "ipad",
+64 "size" : "29x29",
+65 "scale" : "1x"
+66 },
+67 {
+68 "size" : "29x29",
+69 "idiom" : "ipad",
+70 "filename" : "ARKit-58.png",
+71 "scale" : "2x"
+72 },
+73 {
+74 "idiom" : "ipad",
+75 "size" : "40x40",
+76 "scale" : "1x"
+77 },
+78 {
+79 "size" : "40x40",
+80 "idiom" : "ipad",
+81 "filename" : "ARKit-80.png",
+82 "scale" : "2x"
+83 },
+84 {
+85 "size" : "76x76",
+86 "idiom" : "ipad",
+87 "filename" : "ARKit-76.png",
+88 "scale" : "1x"
+89 },
+90 {
+91 "size" : "76x76",
+92 "idiom" : "ipad",
+93 "filename" : "ARKit-152.png",
+94 "scale" : "2x"
+95 },
+96 {
+97 "size" : "83.5x83.5",
+98 "idiom" : "ipad",
+99 "filename" : "ARKit-167.png",
+100 "scale" : "2x"
+101 },
+102 {
+103 "idiom" : "ios-marketing",
+104 "size" : "1024x1024",
+105 "scale" : "1x"
+106 }
+107 ],
+108 "info" : {
+109 "version" : 1,
+110 "author" : "xcode"
+111 }
+112 }
+Blame
+History
+2.04 KB
+Raw
+      [
+: "20x20",
+  © 2018 GitHub, Inc. Terms Privacy Security Status Help
+Contact GitHub
+Pricing API
+Training Blog
+About
+ }
